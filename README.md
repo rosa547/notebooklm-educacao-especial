@@ -1,11 +1,11 @@
-# NotebookLM - Educa‡Æo Especial
+# NOTEBOOKLM - ASSISTENTE PARA EDUCA€ÇO ESPECIAL
 
-## Sobre o Projeto
-Projeto de pesquisa sobre aplica‡Æo do NotebookLM em educa‡Æo especial.
+## ?? OBJETIVO PRµTICO
+Projeto que demonstra uso do NotebookLM como assistente inteligente
+para apoio ao planejamento na Educa‡Æo Especial.
 
-## Estrutura
+## ?? ESTRUTURA
 - `docs/` - Documenta‡Æo completa
-- `docs/referencias.md` - Referˆncias bibliogr ficas
+- `docs/artigos/` - PDFs carregados no NotebookLM
 
-## Como Usar
-[Adicione instru‡äes aqui]
+## ?? Autora: Rosa Oliveira
